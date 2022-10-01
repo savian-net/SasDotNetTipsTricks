@@ -1,5 +1,7 @@
 # SasDotNetTipsTricks
 
+Various Tips and Trticks to working with SAS in the world of C# and .NET
+
 ### Execute SAS Code Using C#
 ##### Note: The code below is in no particular order and is not directly runable. It is listed here as a guide for how to handle SAS code execution.
 
